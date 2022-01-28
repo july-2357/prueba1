@@ -1,0 +1,5 @@
+.botonEjemplo {
+  background: blueviolet;
+  color: #fff;
+  border: solid 5px black; /* solid para que se vea grosor color */
+}
