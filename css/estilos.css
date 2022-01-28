@@ -1,5 +1,9 @@
 .botonEjemplo {
-  background: blueviolet;
+  background: rgb(156, 153, 160);
   color: #fff;
   border: solid 5px black; /* solid para que se vea grosor color */
+}
+.bg-primary{
+  background: rgb(51, 236, 34) !important;
+  color: black !important;
 }
