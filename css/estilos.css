@@ -3,7 +3,31 @@
   color: #fff;
   border: solid 5px black; /* solid para que se vea grosor color */
 }
+
 .bg-primary{
   background: rgb(51, 236, 34) !important;
   color: black !important;
+}
+.texts{
+  margin:auto;
+
+}
+.item{
+  position: relative;
+  transition: 1s;
+  color: blanchedalmond;
+  background: rgb(27, 23, 23);
+  transition-delay: 0s;
+  margin:100px;
+  padding: 40px;
+  text-align: center;
+  border: solid 3px orange;
+  text-transform: uppercase;
+
+  border-radius: 10px;
+}
+.item:hover{
+  color: rgb(27, 23, 23);
+  background: blanchedalmond;
+  font-size: xx-large;
 }
